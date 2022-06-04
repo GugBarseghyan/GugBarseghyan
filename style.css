@@ -1,0 +1,97 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    transition: 0.3s;
+}
+body{
+    margin:0;
+    padding:0;
+    border:0;
+    background-color: #ffff50;
+    letter-spacing: 1px;
+}
+.gug{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gugD{
+    background-color: #303030;
+    border-radius: 20px;
+    padding: 40px 30px;
+    color: white;
+    text-align: center;
+    max-width: 400px;
+}
+.gugD img{
+    width: 200px;
+    border-radius: 50%;
+}
+.gugD a{
+    color: white;
+    font-weight: bold;
+}
+.gugD i{
+    font-size: 30px;
+    padding: 3px;
+    transition: 0.3s
+}
+.gugD i:hover{
+    opacity: 0.4
+}
+.gugD #LandDbtn{
+    cursor: pointer;
+    padding: 5px 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin: 20px 0 0 0;
+    transition: 0.4s;
+    background-color: #0000;
+    color: white;
+}
+.gugD #LandDbtn:hover{
+    opacity: 0.4;
+}
+
+.gugL{
+    background-color: #ffff50;
+    border-radius: 20px;
+    padding: 40px 30px;
+    color: #303030;
+    text-align: center;
+    max-width: 400px;
+}
+.gugL img{
+    width: 200px;
+    border-radius: 50%;
+}
+.gugL a{
+    color: #303030;
+    font-weight: bold;
+}
+.gugL i{
+    font-size: 30px;
+    padding: 3px;
+    transition: 0.3s
+}
+.gugL i:hover{
+    opacity: 0.4
+}
+.gugL #LandDbtn{
+    cursor: pointer;
+    padding: 5px 10px;
+    border: 1px solid #303030;
+    border-radius: 10px;
+    margin: 20px 0 0 0;
+    transition: 0.4s;
+    background-color: #0000;
+    color: #303030
+}
+.gugL #LandDbtn:hover{
+    opacity: 0.4;
+}
+.hidden{
+    display: none;
+}
