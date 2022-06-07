@@ -1,7 +1,8 @@
 - 👋 Hi, I’m GugBarseghyan
 - 👀 I’m interested in programming and musical
 - 🌱 I’m currently learning programming and languages
-- 💞️ I’m big fan of Billie Eilish
+- 💞️ I’m big fan of Billie Eilish :)
+- 💛 My favorite color is yellow )
 - 📫 Be lucky :D
 
 <h1>Me in social:</h1>
