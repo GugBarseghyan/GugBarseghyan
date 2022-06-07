@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GugBarseghyan
+- 👋 Hi, I’m GugBarseghyan
 - 👀 I’m interested in programming and musical
 - 🌱 I’m currently learning programming and languages
-- 💞️ I’m looking to collaborate with Google, and Microsoft
-- 📫 How to reach me? Be lucky :D
+- 💞️ I’m big fan of Billie Eilish
+- 📫 Be lucky :D
 
 <h1>Me in social:</h1>
 <ul>
