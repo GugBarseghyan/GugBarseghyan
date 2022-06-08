@@ -1,10 +1,10 @@
-let user = {
-  fullname: "Gug Barseghyan",
-  interests: "Programing and musical",
-  favoArtist: "Billie Eilish",
-  favoColor: "yellow",
-  keyToSuccess: "be human"  
-}
+let user = {<br>
+  fullname: "Gug Barseghyan",<br>
+  interests: "Programing and musical",<br>
+  favoArtist: "Billie Eilish",<br>
+  favoColor: "yellow",<br>
+  keyToSuccess: "be human" <br>
+}<br>
 - 👋 Hi, I’m GugBarseghyan
 - 👀 I’m interested in programming and musical
 - 🌱 I’m currently learning programming and languages
