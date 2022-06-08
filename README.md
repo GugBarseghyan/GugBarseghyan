@@ -1,3 +1,10 @@
+let user = {
+  fullname: "Gug Barseghyan",
+  interests: "Programing and musical",
+  favoArtist: "Billie Eilish",
+  favoColor: "yellow",
+  keyToSuccess: "be human"  
+}
 - 👋 Hi, I’m GugBarseghyan
 - 👀 I’m interested in programming and musical
 - 🌱 I’m currently learning programming and languages
