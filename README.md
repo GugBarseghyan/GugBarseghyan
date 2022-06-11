@@ -23,7 +23,6 @@
   <li><u>VOMA Vanadzor</u> This is real project, created with <a target="_blank" href="https://www.facebook.com/TechnologyLearningPlanet/">TLP</a> <a target="_blank" href="https://github.com/GugBarseghyan/VOMA_Vanadzor">Click here to watch files</a>, and <a href="https://gugbarseghyan.github.io/VOMA_Vanadzor/">Click here to watch website</a></li>
 </ul>
 
-
 <hr>
 
 <h1>Creative Ideas</h1>
