@@ -27,6 +27,8 @@
 
 <h1>Creative Ideas</h1>
 <ul>
+  <li><u>JS password generator </u> <a target="_blank" href="https://github.com/GugBarseghyan/password-template">Click here to watch files</a>, and <a href="https://gugbarseghyan.github.io/password-template/">Click here to watch website</a></li>
+  
   <li><u>Insert objects in HTML with JS</u> <a target="_blank" href="https://github.com/GugBarseghyan/Insert-object-from-JS-to-HTML">Click here to watch files</a>, and <a target="_blank" href="https://gugbarseghyan.github.io/Insert-object-from-JS-to-HTML/">Click here to watch website</a></li>
   
   <li><u>Object filter with JS </u><a target="_blank" href="https://github.com/GugBarseghyan/JS-Filter">Click here to watch files</a>, and <a target="_blank" href="https://gugbarseghyan.github.io/JS-Filter/">Click here to watch website</a></li>
